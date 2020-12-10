@@ -9,7 +9,15 @@ body {
 }
 
 @media (min-width: 576px) { 
-
+.btn {
+    background-color: lime;
+    position: center;
+    text-align: center;
+    width:100%;
+}
+.card {
+    width: 100%;
+}
 }
 .btn {
     background-color: lime;
