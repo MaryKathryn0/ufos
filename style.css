@@ -7,8 +7,10 @@ body {
     margin: 0px;
     padding: 0px;
 }
-
-@media (min-width: 576px) { 
+.navbar {
+    background-color: rgb(3, 26, 44);
+}
+/* @media (min-width: 576px) { 
 .btn {
     background-color: lime;
     position: center;
@@ -18,7 +20,7 @@ body {
 .card {
     width: 100%;
 }
-}
+} */
 .btn {
     background-color: lime;
     text-align: center;
