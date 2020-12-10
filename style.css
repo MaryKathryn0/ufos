@@ -4,6 +4,8 @@ body {
     background-position: top center;
     background-attachment: fixed;
     background-size: cover;
+    margin: 0px;
+    padding: 0px;
 }
 
 @media (min-width: 576px) { 
@@ -12,14 +14,14 @@ body {
 .btn {
     background-color: lime;
     text-align: center;
-   
-    
+    display: flex;
+    justify-content: center;
 }
 
 .card {
-    background-color: slategray;
+    background-color: rgb(33, 34, 36);
+    color: lime;
     text-align: center;
-    width: 75%;
     margin: 60px;
     display: flex;
     justify-content: center;
