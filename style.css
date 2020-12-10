@@ -1,0 +1,26 @@
+body {
+    background-image: url('https://images.pexels.com/photos/2387877/pexels-photo-2387877.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940');
+    background-repeat: no-repeat;
+    background-position: top center;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+@media (min-width: 576px) { 
+
+}
+.btn {
+    background-color: lime;
+    text-align: center;
+   
+    
+}
+
+.card {
+    background-color: slategray;
+    text-align: center;
+    width: 75%;
+    margin: 60px;
+    display: flex;
+    justify-content: center;
+}
